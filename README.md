@@ -76,8 +76,6 @@ project-folder/
 
 # How to Run the Project
 1️ Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
 
 2️  Install dependencies
 pip install flask flask_sqlalchemy matplotlib
