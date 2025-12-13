@@ -59,20 +59,7 @@ Responsive UI (Bootstrap)
 
 Clean Project Structure
 
- # Project Structure
-project-folder/
-│
-├── app.py                 # Main Flask application
-├── models.py              # Database models
-│
-├── /templates             # Jinja2 HTML templates
-│   ├── user_dashboard.html
-│   ├── admin_dashboard.html
-│   └── ...
-│
-├── /static                # CSS, JS, Images
-│
-└── README.md              # Documentation
+
 
 # How to Run the Project
 1️ Clone the repository
