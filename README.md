@@ -24,7 +24,7 @@ SQLite — Simple and efficient database
 
 Jinja2 — Templating engine for HTML
 
-Bootstrap — Responsive UI components
+Bootstrap — Responsive UI components g
 
 Matplotlib — Used for generating analytic charts
 
